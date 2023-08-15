@@ -5,7 +5,7 @@ Studying Computer Science at Unipe- João Pessoa/PB
 
 
 ## About Me
-👩‍💻 Working at Jardim Imperial LTDA
+👩‍💻Coding for @CangacoDev
 
 🧠 Learning Python and PHP
 
