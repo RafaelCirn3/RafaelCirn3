@@ -16,7 +16,7 @@ Studying Computer Science at Unipe- João Pessoa/PB
 
 
 ## 🛠 Skills
-Python, HTML, CSS...
+Python, JavaScript, PHP...
 
 
 ## 🔗 Links
