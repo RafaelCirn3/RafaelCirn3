@@ -5,9 +5,9 @@ Studying Computer Science at Unipe- João Pessoa/PB
 
 
 ## About Me
-👩‍💻Coding for @CangacoDev
+👩‍💻Coding for @CangacoTech Solutions
 
-🧠 Learning Python, PHP, C and JavaScript
+🧠 Learning Python, PHP, C, Java, Typescript and JavaScript
 
 
 📫 Contact Me : cirnerafael06@gmail.com
@@ -16,7 +16,7 @@ Studying Computer Science at Unipe- João Pessoa/PB
 
 
 ## 🛠 Skills
-Python, JavaScript, PHP...
+Python, Java, PHP...
 
 
 ## 🔗 Links
