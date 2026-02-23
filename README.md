@@ -5,9 +5,8 @@ Studying Computer Science at Unipe- João Pessoa/PB
 
 
 ## About Me
-👩‍💻Coding for @VieiraWorks, @ligadigitaldevs
+👩‍💻Coding for @VieiraWorks, @FabricadeSoftwares, @JFPB
 
-🧠 Learning Python, PHP, C, Java, Typescript 
 
 📫 Contact Me : cirnerafael06@gmail.com
 
@@ -15,7 +14,7 @@ Studying Computer Science at Unipe- João Pessoa/PB
 
 
 ## 🛠 Skills
-Python, Django, Django Rest Framework, Java, TypeScript, PHP...
+Python, TypeScript, PHP...
 
 
 ## 🔗 Links
