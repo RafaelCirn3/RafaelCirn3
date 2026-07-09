@@ -133,8 +133,7 @@ Automation solutions developed for repetitive judicial workflows, including proc
 
 ## Get in Touch 📬
 
-- 💼 LinkedIn: https://www.linkedin.com/in/rafaelcirne
-- 📧 Email: *(your email here)*
+- 💼 LinkedIn: https://www.linkedin.com/in/rafael-medeiros-1b183a327/
 - 🌐 Portfolio: https://rafaelcirne.com.br
 
 ---
