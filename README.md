@@ -136,15 +136,7 @@ Automation solutions developed for repetitive judicial workflows, including proc
 - 💼 LinkedIn: https://www.linkedin.com/in/rafael-medeiros-1b183a327/
 - 🌐 Portfolio: https://rafaelcirne.com.br
 
----
 
-## GitHub Stats 📈
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCirn3&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelCirn3&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=RafaelCirn3&theme=radical)
 
 ---
 
